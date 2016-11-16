@@ -146,7 +146,7 @@ def plot_fig6_MassLossRateHistogram(nefile='s61-TNS-17GHz-model-3-6-rw-chi33.fit
 
 
 
-def plot_figA1_gallery(cmap='Blues_r',savefile='rhocube_gallery.pdf'):
+def plot_figA1_gallery(cmap='Blues_r',savefile='rhocube_gallery.png'):
 
     """Plot gallery of several RHOCUBE models. Pretty.
 
