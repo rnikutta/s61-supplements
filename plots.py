@@ -105,9 +105,6 @@ def plot_fig6_MassLossRateHistogram(nefile='s61-TNS-17GHz-model-3-6-rw-chi33.fit
     dMs = dMs * voxel2Msun
     
     # PLOT
-    p.rcParams['pdf.fonttype'] = 42
-    p.rcParams['ps.fonttype'] = 42
-
     rmids = N.linspace(0.,pixelscale*(npix/2),npix/2)
     yearsmids = rmids / ((v / pc2km) * y2s)  # convert radii to years using expansion velocity
     xvals = yearsmids
