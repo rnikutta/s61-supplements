@@ -19,7 +19,7 @@ density distributions", MNRAS MN-16-3575-MJ.*
 
 *Data files:*
 
-`em_map\*fits`: Emission measure maps for S61 at 8 and 17 GHZ. Masked at 3-sigma level.
+`em_map\*fits`: Emission measure maps for S61 at 9 and 17 GHZ. Masked at 3-sigma level.
 
 `err_em_map\*fits`: Corresponding error maps.
 
