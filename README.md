@@ -30,3 +30,5 @@ density distributions", MNRAS MN-16-3575-MJ.*
 [computations.py](./computations.py): Python source code for some computations, e.g. fitting EM maps with [RHOCUBE](https://github.com/rnikutta/rhocube)
 
 This directory also contains required auxiliary data files, models, etc.
+
+**More content to come shortly, stay tuned!!**
