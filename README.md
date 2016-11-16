@@ -2,7 +2,9 @@
 
 **Authors:** R. Nikutta, C. Agliozzo
 
-**Version:** 20161115
+**License:** All code under BSD 3-clause, please see [LICENSE](./LICENSE) file. Use and have fun.
+
+**Version:** 2016-11-15
 
 Supplementary materials for the paper:
 
