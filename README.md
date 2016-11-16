@@ -12,7 +12,7 @@ density distributions", MNRAS MN-16-3575-MJ.*
 
 [MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/16/FINALLINKHERE)
 
-[astro-ph](FINALLINKHERE)
+[astro-ph](https://arxiv.org/abs/FINALLINKHERE)
 
 
 *Data files:*
