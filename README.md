@@ -12,9 +12,9 @@ Supplementary materials for the paper:
 candidate LBV SK -67266 (S61): the nebular mass from modelling 3D
 density distributions", MNRAS MN-16-3575-MJ.*
 
-[MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/16/FINALLINKHERE)
+[MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/18/FINALLINKHERE)
 
-[astro-ph](https://arxiv.org/abs/FINALLINKHERE)
+[astro-ph](https://arxiv.org/abs/1611.05259)
 
 
 *Data files:*
