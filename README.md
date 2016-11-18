@@ -5,14 +5,14 @@ Supplementary materials for the paper:
 *Agliozzo et al. 2016, "New ATCA, ALMA and VISIR observations of the
 candidate LBV SK -67266 (S61): the nebular mass from modelling 3D
 density distributions", MNRAS MN-16-3575-MJ.*
-| [MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/18/FINALLINKHERE)
+| [MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/17/mnras.stw2986.abstract?keytype=ref&ijkey=BD9i9T5p2NxQzfc)
 | [astro-ph](https://arxiv.org/abs/1611.05259)
 
 **Authors:** Robert Nikutta, Claudia Agliozzo
 
 **License:** All code under BSD 3-clause, please see [LICENSE](./LICENSE) file. Use and have fun.
 
-**Version:** 2016-11-17
+**Version:** 2016-11-18
 
 *Data files:*
 
