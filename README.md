@@ -1,21 +1,18 @@
 # s61-supplements
 
-**Authors:** R. Nikutta, C. Agliozzo
-
-**License:** All code under BSD 3-clause, please see [LICENSE](./LICENSE) file. Use and have fun.
-
-**Version:** 2016-11-15
-
 Supplementary materials for the paper:
 
 *Agliozzo et al. 2016, "New ATCA, ALMA and VISIR observations of the
 candidate LBV SK -67266 (S61): the nebular mass from modelling 3D
 density distributions", MNRAS MN-16-3575-MJ.*
+| [MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/18/FINALLINKHERE)
+| [astro-ph](https://arxiv.org/abs/1611.05259)
 
-[MNRAS](http://mnras.oxfordjournals.org/content/early/2016/11/18/FINALLINKHERE)
+**Authors:** Robert Nikutta, Claudia Agliozzo
 
-[astro-ph](https://arxiv.org/abs/1611.05259)
+**License:** All code under BSD 3-clause, please see [LICENSE](./LICENSE) file. Use and have fun.
 
+**Version:** 2016-11-17
 
 *Data files:*
 
@@ -32,3 +29,5 @@ density distributions", MNRAS MN-16-3575-MJ.*
 This directory also contains required auxiliary data files, models, etc.
 
 **More content to come shortly, stay tuned!!**
+
+!["Gallery of come RHOCUBE models"](https://github.com/rnikutta/s61-supplements/blob/master/rhocube_gallery.png)
